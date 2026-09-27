@@ -22,7 +22,7 @@ To get started with the "Where in the World" project, follow these steps:
 
 1. **Clone the Repository:**
     ```bash
-    git clone https://github.com/pulkitgarg04/where-in-the-world.git
+    git clone https://github.com/pulkitgxrg/where-in-the-world.git
     ```
 
 2. Navigate to the Project Directory:
